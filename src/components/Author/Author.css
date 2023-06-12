@@ -1,0 +1,21 @@
+.cardaw {
+  width: 275px;
+  border-radius: 15px;
+  height: 330px;
+  background-color: transparent;
+  display: flex;
+  margin-right: 10px;
+}
+.cardaw a {
+  text-decoration: none;
+  color: black;
+}
+.seis {
+  width: 60%;
+  margin-left: 0px;
+  margin-top: 10px;
+  margin-bottom: 50px;
+}
+.cardwe {
+  text-align: center;
+}

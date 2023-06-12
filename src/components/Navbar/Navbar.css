@@ -1,0 +1,463 @@
+.nav-gif img {
+  height: 80px;
+  width: 100%;
+  margin-bottom: -20px;
+}
+
+.dsa {
+  border: none;
+  background-color: transparent;
+}
+
+.navb-text {
+  display: flex;
+  gap: 10px;
+}
+
+.nav-gif p {
+  font-weight: 600;
+  color: #00a0e3;
+  font-size: 24px;
+  padding-top: 10px;
+}
+
+.in {
+  border-radius: 0%;
+  padding: 13.5px 17px;
+  border: 1px solid gainsboro;
+  border-top-left-radius: 27px;
+  border-bottom-left-radius: 27px;
+  border-right: none;
+}
+
+.nav-inp {
+  border-radius: 0%;
+  display: flex;
+  width: 650px;
+  height: 50px;
+}
+
+.SAl {
+  background-color: #00a0e3;
+  border: none;
+  border-radius: 40px;
+  color: white;
+  margin-top: 40px;
+  margin-bottom: -20px;
+  padding: 10px 20px;
+}
+
+.int {
+  margin-right: 20px;
+  border-top-right-radius: 27px;
+  border-bottom-right-radius: 27px;
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+  width: 70px;
+  background-color: #00a0e3;
+  border: 1px solid #00a0e3;
+  color: white;
+  font-size: 17px;
+  padding-left: 20px;
+}
+
+.navb-text a {
+  text-decoration: none;
+  color: black;
+  padding-right: 10px;
+}
+
+.navb-text {
+  margin-right: 43px;
+}
+
+.nav-a a {
+  text-decoration: none;
+  color: #111;
+}
+
+.Nav-content {
+  display: flex;
+  height: 110px;
+  align-items: center;
+}
+
+.btn-in {
+  width: 635px;
+  height: 45px;
+  border-radius: 50px;
+  border: 0.5px solid #999;
+  padding: 10px;
+}
+
+.nav-a {
+  /* margin-right: 30px; */
+}
+
+.dut {
+  margin-left: 290px;
+  border-radius: 40px;
+  background-color: #00a0e3;
+  color: white;
+  padding: 15px;
+  border: none;
+}
+
+.aaa {
+  border-radius: 40px;
+  background-color: #00a0e3;
+  color: white;
+  padding: 15px;
+  border: none;
+  margin-right: 140px;
+}
+
+.aaa1 {
+  border-radius: 40px;
+  background-color: #00a0e3;
+  color: white;
+  padding: 15px;
+  border: none;
+  margin-right: 140px;
+}
+
+.Nav-content a {
+  text-decoration: none;
+  color: black;
+}
+
+.navb-icon a {
+  text-decoration: none;
+  color: black;
+}
+
+.boe {
+  border-radius: 30px;
+  border: 1px solid white;
+}
+
+.btn1 {
+  border-radius: 40px;
+  background-color: #00a0e3;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+}
+
+.ins {
+  border-radius: 75px;
+  width: 34px;
+}
+
+.fac {
+  width: 60px;
+}
+
+.tel {
+  width: 80px;
+  margin-right: -23px;
+}
+
+.ht {
+  border: 1.5px solid #999;
+  margin-top: -8px;
+}
+
+.but {
+  height: 45px;
+  background: transparent;
+  border-radius: 40px;
+  padding: 10px 20px;
+  border: 1px solid rgb(207, 207, 207);
+  text-decoration: none;
+  margin-right: 20px;
+  gap: 10px !important;
+}
+
+.sidebr {
+  display: flex;
+}
+
+.sed {
+  width: 700px;
+}
+
+._boribiw h5 {
+  padding-top: 10px;
+}
+
+._boribiw p {
+  padding-top: 10px;
+}
+
+.sidebr h6 {
+  padding-top: -20px;
+}
+
+.sidebr h5 {
+  padding-top: -20px;
+}
+
+.sidebr p {
+  padding-top: -10px;
+}
+
+.nav-content {
+  display: flex;
+}
+
+.nav-ul li {
+  list-style: none;
+}
+
+.nav-ul {
+  display: flex;
+  gap: 30px;
+  font-size: 20px;
+  margin-top: 5px;
+}
+
+.nav-content {
+  border-radius: 30px;
+  justify-content: space-between;
+}
+
+.navb-icon {
+  gap: 50px;
+}
+
+.navb-icon p {
+  font-size: 23px;
+  margin-left: -20px;
+}
+.navber {
+  background: white;
+  border-bottom-left-radius: 40px;
+  border-bottom-right-radius: 40px;
+  margin-bottom: 50px;
+}
+
+.nav-item {
+  list-style: none;
+}
+
+.nav-item a {
+  color: #111;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.ok {
+  width: 100% !important;
+}
+
+.ovcan {
+  width: 100%;
+  padding: 0;
+}
+
+@media all and (max-width: 1145px) {
+  .bir {
+    display: none;
+  }
+  .nav-a {
+    margin-left: -160px;
+  }
+  .fj {
+    display: none;
+  }
+
+  .navb-icon {
+    gap: 50px;
+  }
+}
+@media all and (max-width: 995px) {
+  .nav-a {
+    margin-left: -70px !important;
+  }
+  .nav-gif {
+    margin-right: 370px !important;
+  }
+  .nav-inter {
+    display: none;
+  }
+  .nav-btn {
+    margin-left: 30px;
+  }
+}
+@media all and (max-width: 1400px) {
+  .nav-inp {
+    border-radius: 0%;
+    display: flex;
+    width: 460px;
+    height: 50px;
+  }
+
+  .nav-gif {
+    margin-right: 670px;
+  }
+
+  .but {
+    padding: -20px -15px;
+  }
+
+  .bir {
+    display: none;
+  }
+
+  .navb-icon {
+    padding-left: 10px;
+  }
+}
+
+@media all and (max-width: 1024px) {
+  .bir {
+    display: none;
+  }
+
+  .but {
+    margin-right: -50px;
+  }
+
+  .nav-inp {
+    border-radius: 0%;
+    display: flex;
+    width: 250px;
+    height: 50px;
+  }
+
+  .f2 {
+    display: none;
+  }
+
+  .fe {
+    display: none;
+  }
+
+  .nav-a a {
+    text-decoration: none;
+    color: #111;
+    font-size: 15px;
+  }
+
+  .navb-text {
+    display: none;
+  }
+
+  .nav-inter {
+    width: 150px;
+  }
+
+  .ins {
+    border-radius: 75px;
+    width: 30px;
+  }
+
+  .fac {
+    width: 60px;
+  }
+
+  .tel {
+    width: 80px;
+    margin-right: -23px;
+  }
+}
+
+@media all and (max-width: 768px) {
+  .navber {
+    width: 760px;
+  }
+
+  .f {
+    display: none;
+  }
+
+  .f1 {
+    /* margin-top: -75px;
+
+    margin-left: -70px; */
+    display: none;
+  }
+
+  .navb-text .nav-ul {
+    display: none;
+  }
+
+  .ht {
+    display: none;
+  }
+
+  .yiu {
+    display: flex;
+  }
+
+  .Nav-content {
+    display: block;
+  }
+
+  .but {
+    display: none;
+  }
+
+  .fj {
+    margin-top: 24px;
+    font-size: 27px;
+    margin-left: 0px;
+  }
+
+  .nav-a a {
+    text-decoration: none;
+    color: #111;
+    font-size: 15px;
+  }
+
+  .nav-inter {
+    display: none;
+  }
+
+  .fac {
+    width: 60px;
+  }
+
+  .tel {
+    width: 80px;
+    margin-right: -23px;
+  }
+
+  .bi{
+    margin-left: 15px;
+  }
+  .nav-btn {
+    margin-left: 450px;
+    margin-top: -90px;
+  }
+
+  .nav-a {
+    display: none;
+  }
+
+  .navber {
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+  }
+}
+
+@media all and (max-width: 450px) {
+  .nav-gif {
+    margin-right: -100px;
+    width: 100px;
+  }
+
+  .f1 {
+    margin-left: -480px;
+  }
+
+  .nav-content {
+    width: 100px;
+  }
+
+  .navber {
+    width: 365px;
+    overflow-x: hidden;
+  }
+}

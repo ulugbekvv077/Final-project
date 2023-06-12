@@ -1,0 +1,119 @@
+.cards {
+  width: 250px;
+  text-align: center;
+  border-radius: 15px;
+  transition: all 0.1s ease-out;
+  height: 400px;
+  margin: 30px;
+}
+
+.siis {
+  margin-left: 50px;
+  background-color: darkgrey;
+  height: 220px;
+}
+.ifff {
+  border-radius: 20px;
+  margin-top: 40px;
+  padding: 20px;
+}
+.cards:hover {
+  width: 250px;
+  text-align: center;
+  border-radius: 15px;
+  box-shadow: -1px -6px 27px -1px rgba(153, 238, 238, 0.75);
+  -webkit-box-shadow: -1px -6px 27px -1px rgba(153, 238, 238, 0.75);
+  -moz-box-shadow: -1px -6px 27px -1px rgba(153, 238, 238, 0.75);
+}
+.cards img {
+  width: 150px;
+}
+.cardss h6 {
+  font-family: serif;
+  font-size: 18px;
+  font-weight: 600;
+  color: rgb(51, 46, 46);
+}
+.cardss p {
+  color: rgb(0, 200, 255);
+  font-family: serif;
+  font-size: 18px;
+  margin-top: -8px;
+}
+.cardss h5 {
+  font-family: serif;
+  font-weight: 600;
+  margin-top: -14px;
+}
+.cardss button {
+  padding: 6px 14px;
+  background-color: transparent;
+  color: rgb(0, 200, 255);
+  border: 1px solid rgb(0, 200, 255);
+  border-radius: 50px;
+}
+.cardss button:hover {
+  padding: 6px 14px;
+  color: white;
+  border: 1px solid rgb(0, 200, 255);
+  border-radius: 50px;
+  background-color: rgb(0, 200, 255);
+}
+.paragraf h2 {
+  padding-left: 40px;
+  padding-top: 20px;
+}
+.cards {
+  display: flex;
+}
+.back {
+  background: gray;
+  margin-top: 50px;
+  border-bottom-left-radius: 40px;
+  border-bottom-right-radius: 40px;
+  border-top-left-radius: 40px;
+  border-top-right-radius: 40px;
+}
+button:hover .fs {
+  color: white;
+}
+.cardss .fs {
+  color: rgb(0, 200, 255);
+  padding-right: 5px;
+}
+.cardss .fs:hover {
+  color: white;
+  padding-right: 5px;
+}
+.ff {
+  transition: width 1s;
+  color: red;
+}
+.ff:hover {
+  font-size: 24px;
+  color: red;
+}
+.back a {
+  text-decoration: none;
+}
+.cardss a {
+  text-decoration: none;
+}
+.cardss img {
+  margin-right: 47px;
+}
+@media all and (min-width: 1145px) {
+  .back {
+    background: white;
+    margin-top: 50px;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    margin-left: -60px;
+    margin-right: -60px;
+  }
+}
+.cde:hover {
+  background-color: red;
+}

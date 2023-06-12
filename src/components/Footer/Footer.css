@@ -1,0 +1,119 @@
+.foot-desc h3 {
+  color: white;
+  padding-top: 20px;
+}
+.foot-desc {
+  margin-top: 14px;
+}
+.desan {
+  display: flex;
+}
+.foot-a {
+  display: flex;
+  gap: 8px;
+  color: white;
+  align-items: center;
+  padding-top: 10px;
+  margin-top: 20px;
+}
+.foot-a a {
+  color: white;
+  text-decoration: none;
+  font-size: 19px;
+}
+.foot-email {
+  display: flex;
+  gap: 8px;
+  color: white;
+  align-items: center;
+  margin-top: 10px;
+  padding-top: 10px;
+}
+.foot-email a {
+  color: white;
+  text-decoration: none;
+  font-size: 19px;
+}
+.foot-locat {
+  display: flex;
+  gap: 8px;
+  color: white;
+  align-items: center;
+  padding-top: 10px;
+  margin-top: 10px;
+}
+.foot-locat a {
+  color: white;
+  text-decoration: none;
+  font-size: 19px;
+}
+.Foot-content {
+  background-color: white;
+  margin-top: 20px;
+  padding-bottom: 20px;
+  display: flex;
+  background-color: #00b2f5;
+  height: 340px;
+}
+.desan {
+  display: flex;
+  justify-content: space-between;
+}
+.g-play a {
+  text-decoration: none;
+}
+.g-play p {
+  color: white;
+}
+.sarew h6 {
+  color: white;
+}
+.g-play i {
+  color: white;
+}
+.wer {
+  color: black;
+  text-decoration: none;
+}
+.foot-contact h6 {
+  color: white;
+  margin-top: 25px;
+  font-size: 20px;
+  font-weight: 400;
+}
+.foot-contact h4 {
+  color: white;
+  margin-top: 30px;
+}
+@media all and (max-width: 500px) {
+  .foot-contact h4 {
+    font-size: 15px;
+  }
+  .foot-contact h6 {
+    font-size: 13px;
+  }
+  .foot-desc h3{
+    font-size: 16px;
+  }
+  .foot-a i{
+    font-size: 17px;
+  }
+  .foot-a a{
+    font-size: 11px;
+  }
+  .foot-email i{
+    font-size: 17px;
+  }
+  .foot-email a{
+    font-size: 13px;
+  }
+  .foot-locat i{
+    font-size: 17px;
+  }
+  .foot-locat a{
+    font-size: 13px;
+  }
+  .Foot-content{
+    width: 500px;
+  }
+}

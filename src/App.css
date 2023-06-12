@@ -1,0 +1,71 @@
+body {
+  background: rgb(246, 246, 249);
+  overflow-x: hidden;
+}
+
+.reg-content {
+  width: 900px;
+  margin-left: -120px;
+}
+
+.card-header h1 {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.primer {
+  margin-top: 40px;
+}
+
+.premir {
+  margin-top: 40px;
+  margin-left: 565px;
+}
+
+.jisuu label {
+  margin-top: 15px;
+}
+
+.rex {
+  width: 700px;
+  height: 40px;
+  border-radius: 40px;
+  padding: 5px;
+  border: none;
+  margin-bottom: 10px;
+  display: block;
+  background-color: darkslategray;
+  color: white;
+  margin-left: 200px;
+}
+.slick-next:before{
+  color: black !important;
+}
+.slick-prev:before{
+  color: black !important;
+}
+.onli {
+  border-radius: 40px;
+  background-color: #00a0e3;
+  color: white;
+  padding: 10px;
+  border: none;
+  margin-left: 520px;
+  margin-top: 30px;
+}
+
+.errmsg {
+  color: red;
+}
+
+.app-check {
+  height: 20px;
+  width: 20px;
+  margin: 1%;
+}
+
+.carad {
+  border: 1px solid gray;
+  border-radius: 10px;
+  padding: 20px;
+}
